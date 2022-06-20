@@ -9,7 +9,7 @@ from sklearn.neighbors import NearestNeighbors
 
 st.title("음식 추천 시스템")
 st.text("주문을 도와드리겠습니다")
-st.image("food.jpg")
+## st.image("food.jpg")
 
 ## nav = st.sidebar.radio("Navigation",["Home","IF Necessary 1","If Necessary 2"])
 st.subheader("  <내용 기반 으로 추천>")
