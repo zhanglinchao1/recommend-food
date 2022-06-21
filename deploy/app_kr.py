@@ -17,7 +17,7 @@ st.subheader("당신의 좋아하는 음식은 무엇입니까?")
 vegn = st.radio("Vegetables or none!",["veg","non-veg"],index = 1) 
 
 st.subheader("어떤 요리를 좋아하세요?")
-cuisine = st.selectbox("Choose your favourite!",['Healthy Food', 'Snack', 'Dessert', 'Japanese', 'Indian', 'French',
+cuisine = st.selectbox("Choose your favourite!",['French', 'Snack', 'Dessert', 'Japanese', 'Indian', 'Healthy Food',
        'Mexican', 'Italian', 'Chinese', 'Beverage', 'Thai'])
 
 
