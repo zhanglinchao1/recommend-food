@@ -39,42 +39,7 @@ $ pip install streamlit
 $ streamlit run app.py
 ```
 
-## Contributors
 
-<table>
-<tr align="center">
-
-
-<td>
-
-Ayush Jindal
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/64908612?s=400&u=0badfa617b6e46c5da46f5105f8605bcbeb12a50&v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
-<a href = "https://github.com/ayushjindal23"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/ayushjindal23/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-
-<td>
-
-Joshikha M
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/77103140?s=400&u=27715b653bfec4f5723e48fc5543662a11369eb8&v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
-<a href = "https://github.com/mjoshikha"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/mjoshikha1111/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
 
 
 
