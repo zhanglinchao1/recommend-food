@@ -78,27 +78,3 @@ Joshikha M
 
 
 
-<td>
-
-Suvodeep Sinha
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/52796258?s=400&u=ac91850aac9a86d6124283d5435ad0a1a7cdbe53&v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
-<a href = "https://github.com/Suvoo"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/suvodeep-sinha-59652418b/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-</tr>
-  </table>
-  
-## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-<p align="center">
-	Made with :heart: by <a href="https://dscommunity.in">DS Community SRM</a>
-</p>
-
